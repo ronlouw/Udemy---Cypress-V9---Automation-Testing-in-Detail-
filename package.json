@@ -9,6 +9,7 @@
   "author": "Ronald van der Louw",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^9.2.1"
+    "cypress": "^9.2.1",
+    "cypress-xpath": "^1.6.2"
   }
 }
